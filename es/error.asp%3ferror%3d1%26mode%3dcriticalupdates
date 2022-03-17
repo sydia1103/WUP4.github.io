@@ -1,0 +1,38 @@
+
+<html dir="ltr">
+	<head>
+		<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "inet@microsoft.com" on "1997.06.30T14:48-0500" r (n 0 s 0 v 0 l 0))' />
+		<meta http-equiv="Content-Type" content="text/html;charset=windows-1252" />
+		<meta http-equiv="MSThemeCompatible" content="yes" />
+		<meta name="MSSmartTagsPreventParsing" content="yes" />
+		<script language="JScript" type="text/javascript">function window.onerror(sMessage, sURL, sLine){ return true; }</script><script language="JScript" type="text/javascript" src="/shared/js/content.js"></script><link rel="stylesheet" type="text/css" href="/shared/css/hcp.css" />
+		<link rel="stylesheet" type="text/css" href="/shared/css/content.css" />
+		
+		<title>Marco del contenido</title>
+	</head>
+	<body onload="if(self != top && 'function' ==  typeof(fnInit)) fnInit(0, 1);">
+		<img src="/shared/images/info_icon.gif" class="icon32" alt="Información importante." /><span class="sys-font-heading3 sys-rhp-color-title">Debe cambiar la configuración de seguridad de Internet Explorer</span><br /><br />
+		<div class="error">
+Windows Update utiliza controles ActiveX y Active Scripting para mostrar correctamente el contenido y determinar qué actualizaciones corresponden a su equipo. <a href="dialog_learnabout.asp?topic=0&noscripting=truemode=criticalupdates" onclick="if('function' == typeof(parent.fnDisplayLearnAbout)){ parent.fnDisplayLearnAbout(0);return false;}" class="sys-link-normal"><br />Deseo obtener más información acerca de Active Scripting y los controles ActiveX</a><br /><br />
+<b>Para poder ver y descargar actualizaciones para el equipo, Windows Update debe aparecer como sitio de confianza de Internet Explorer</b><br /><br />
+<b>Para agregar Windows Update a la zona de sitios de confianza:</b><br />
+<ol style='margin-left:40 px'>
+	<li>En el menú <b>Herramientas</b> de Internet Explorer, haga clic en <b>Opciones de Internet</b>.</li>
+	<li>Haga clic en la ficha <b>Seguridad</b>.</li>
+	<li>Haga clic en el icono Sitios de confianza y, a continuación, en <b>Sitios</b>.<br />
+	<li>Desactive la casilla de verificación "Requerir comprobación del servidor". <br />
+	<li>Compruebe que aparezcan las siguientes direcciones URL en el cuadro de la lista de sitios Web:<br />
+</ol>
+<ul style='margin-left:65 px'>
+	<li>http://*.windowsupdate.microsoft.com</li>
+	<li>https://*.windowsupdate.microsoft.com</li>
+	<li>http://*.windowsupdate.com</li>
+</ul>
+<span><b>Nota:</b> si necesita agregar una dirección URL a la lista de sitios Web y el botón <b>Agregar</b> está deshabilitado, póngase en contacto con el administrador del sistema.</span><br />
+<div><form action="default.asp" method="post" target="_parent"><input type="submit" value="Continuar" /></form></div>
+		</div>
+		<br /><br />
+		También puede obtener <a href="support.asp" class="sys-link-normal">soporte en línea</a> si tiene problemas con Windows Update.<br /><br />
+
+	</body>
+</html>

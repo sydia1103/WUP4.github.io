@@ -1,0 +1,51 @@
+
+<html dir="ltr">
+	<head>
+		<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "inet@microsoft.com" on "1997.06.30T14:48-0500" r (n 0 s 0 v 0 l 0))' />
+		<meta http-equiv="Content-Type" content="text/html;charset=windows-1252" />
+		<meta http-equiv="MSThemeCompatible" content="yes" />
+		<meta name="MSSmartTagsPreventParsing" content="yes" />
+		<script language="JScript" type="text/javascript">function window.onerror(sMessage, sURL, sLine){ return true; }</script><script language="JScript" type="text/javascript" src="/shared/js/content.js"></script><link rel="stylesheet" type="text/css" href="/shared/css/hcp.css" />
+		<link rel="stylesheet" type="text/css" href="/shared/css/content.css" />
+		
+		<title>Marco del contenido</title>
+	</head>
+	<body onload="if(self != top && 'function' ==  typeof(fnInit)) fnInit(0, 3);">
+		<img src="/shared/images/info_icon.gif" class="icon32" alt="Información importante." /><span class="sys-font-heading3 sys-rhp-color-title">Sólo administradores</span><br /><br />
+		<div class="error">
+Para instalar elementos desde Windows Update, debe iniciar la sesión como administrador o como un miembro del grupo Administradores. Si el equipo está conectado a una red, la configuración de las directivas de red también puede impedirle completar este procedimiento.<br /><br />
+<b><b>Nota</b></b> Si ejecuta un sistema operativo Windows 2000 (excepto DataCenter), Windows XP o Windows&nbsp;Server 2003&nbsp;, puede ejecutar la cuenta de administrador local en el equipo sin tener que cerrar sesión y volver a iniciarla.<br /><br />
+Para ejecutar Windows XP o Windows&nbsp;Server&nbsp;2003 como administrador local:<br /><br />
+<ol>
+	<li>Haga clic en <b>Inicio</b> y, a continuación, en <b>Todos los programas</b> (o haga clic con el botón secundario del mouse en <b>Windows Update</b> si está disponible).</li>
+	<li>Haga clic con el botón secundario del mouse en <b>Windows Update</b>.</li>
+	<li>Haga clic en <b>Ejecutar como</b> en el menú que aparece.</li>
+	<li>Realice uno de los procedimientos siguientes:
+		<ul>
+			<li>Escriba la contraseña del administrador.</li>
+			<li>Escriba el nombre de usuario, el nombre de dominio y la contraseña de una cuenta de usuario con permisos de administración en este equipo.</li>
+		</ul>
+	</li>
+</ol><br />
+Para ejecutar Windows 2000 como administrador local:<br /><br />
+<ol>
+	<li>Haga clic en <b>Inicio</b>, haga clic con el botón secundario del mouse en <b>Windows Update</b> y, a continuación, haga clic en <b>Ejecutar como</b> en el menú que aparece.</li>
+	<li>Realice uno de los procedimientos siguientes:
+		<ul>
+			<li>Escriba la contraseña del administrador.</li>
+			<li>Escriba el nombre de usuario, el nombre de dominio y la contraseña de otra cuenta de usuario con permisos de administración en este equipo.</li>
+		</ul>
+	</li>
+</ol><br />
+Si la opción para la ejecución como administrador local no está disponible:<br /><br />
+<ol>
+	<li>Haga clic en <b>Inicio</b>, haga clic con el botón secundario del mouse en <b>Windows Update</b> y, a continuación, haga clic en <b>Propiedades</b>.</li>
+	<li>Haga clic en la ficha <b>Acceso directo</b> y, a continuación, seleccione la casilla de verificación <b>Ejecutar con credenciales diferentes</b>.
+</ol><br />
+
+		</div>
+		<br /><br />
+		También puede obtener <a href="support.asp" class="sys-link-normal">soporte en línea</a> si tiene problemas con Windows Update.<br /><br />
+
+	</body>
+</html>

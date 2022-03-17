@@ -1,0 +1,35 @@
+
+<html dir="ltr">
+	<head>
+		<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "inet@microsoft.com" on "1997.06.30T14:48-0500" r (n 0 s 0 v 0 l 0))' />
+		<meta http-equiv="Content-Type" content="text/html;charset=windows-1252" />
+		<meta http-equiv="MSThemeCompatible" content="yes" />
+		<meta name="MSSmartTagsPreventParsing" content="yes" />
+		<script language="JScript" type="text/javascript">function window.onerror(sMessage, sURL, sLine){ return true; }</script><script language="JScript" type="text/javascript" src="/shared/js/dialog2.js"></script><link rel="stylesheet" type="text/css" href="/shared/css/hcp.css" />
+		<link rel="stylesheet" type="text/css" href="/shared/css/dialog2.css" />
+		
+		<title>Permitir Active Scripting y controles ActiveX</title>
+	</head>
+	<body onload="fnInitDialog(11);" class="learnabout">
+		<table width="100%" style="margin-bottom: 15px;">
+			<tbody>
+				<tr>
+					<td width="90%"><span class="sys-font-heading3 sys-rhp-color-title">Permitir Active Scripting y controles ActiveX</span></td>
+					<td><img src="/shared/images/uabrand.gif" width="33" height="29" /></td>
+				</tr>
+			</tbody>
+		</table>
+		<div>
+Los controles ActiveX son componentes de software que se pueden descargar y que se utilizan para ampliar las funciones de Internet Explorer a través de elementos de la interfaz de usuario, como menús emergentes, botones, etcétera.<br /><br />
+Active Scripting es una tecnología de Microsoft que permite que diferentes componentes de software interactúen entre sí en un entorno de red (en este caso, en Internet), sin importar el lenguaje en el que se crearon. Gracias a Active Scripting las páginas Web pueden utilizar animaciones y cambiar su contenido de forma dinámica.<br /><br />
+Aunque la mayor parte del contenido activo que puede encontrar en las páginas Web es seguro, es posible que algunas de ellas incluyan contenido activo que pueda causar problemas de seguridad en su equipo. Internet Explorer utiliza niveles de seguridad para el contenido activo a fin de que no se produzcan estos problemas. Para obtener más información, lea el <a href="http://go.microsoft.com/fwlink/?linkid=9580&clcid=0xc0a" target="_blank" class="sys-link-normal">artículo de Microsoft Knowledge Base acerca de la configuración de seguridad de Internet Explorer</a>.<br /><br />
+Mientras explora el Web tiene protección ante la descarga de controles ActiveX no deseados, ya que si una página intenta descargar uno de ellos, Internet Explorer le mostrará un certificado firmado con el nombre de la compañía que creó el control. Este certificado aparece como un cuadro de diálogo de advertencia de seguridad. Si se encuentra en un sitio Web de su confianza (en este caso, Windows Update) y el control ActiveX lo proporciona una compañía en la que confía (en este caso, Microsoft), puede hacer clic en Sí en el cuadro de diálogo para aceptar el certificado y permitir la instalación del control.<br /><br />
+
+		</div>
+		<br />
+
+		<button id="eDefaultButton" onclick="window.close();">Cerrar</button>
+		<button onclick="window.print();">Imprimir</button>
+
+	</body>
+</html>
